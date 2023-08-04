@@ -1,7 +1,7 @@
 <h1 align="center">Hallo 👋, I'm Nobelleon Mahardhika</h1>
 <h3 align="center">A passionate Flutter App developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nobelleon&label=Profile%20views&color=0e75b6&style=flat" alt="bilguunint" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nobelleon&label=Profile%20views&color=0e75b6&style=flat" alt="nobelleon" /> </p>
 
 - 🔭 I’m currently **Improving problem solving skills in mobile app and develop mobile apps.**
 
