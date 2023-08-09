@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nobelleon&label=Profile%20views&color=0e75b6&style=flat" alt="nobelleon" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://github.com/Mirzaazmath/threads_clone/blob/main/assets/output/coding.gif">
+
 - 🔭 I’m currently **Improving problem solving skills in mobile app and develop mobile apps.**
 
 - 🌱 I’m currently learning **Flutter.**
