@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently **Improving problem solving skills in mobile app and develop mobile apps.**
 
-- 🌱 I’m currently learning **Flutter.**
+- 🌱 I’m currently learning **Flutter/dart.**
 
 - 📫 How to reach me **nobelleon.86@gmail.com**
 
