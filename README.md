@@ -19,6 +19,9 @@
 <a href="https://www.linkedin.com/in/nobelleon-mahardhika-291048124/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nobelleon-mahardhika-291048124" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nobelleon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nobelleon" height="30" width="40" /></a>
 <a href="https://web.facebook.com/n0beLLeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nobelleon" height="30" width="40" /></a>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/nobelleon">
+
+
   
 </p>
 
