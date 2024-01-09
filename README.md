@@ -28,7 +28,23 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,git,github,firebase,figma,vscode&theme=light)](https://nobelleon.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,vscode&theme=light)](https://nobelleon.dev)
+
+<h3 align="left"> FrontEnd:</h3>
+
+ [![My Skills](https://skillicons.dev/icons?i=flutter,html&theme=light)](https://nobelleon.dev)
+
+<h3 align="left"> BackEnd/Database:</h3>
+
+ [![My Skills](https://skillicons.dev/icons?i=firebase&theme=light)](https://nobelleon.dev)
+
+ <h3 align="left"> Design UI:</h3>
+
+ [![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://nobelleon.dev)
+
+<h3 align="left"> CI/CD:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=git,github&theme=light)](https://nobelleon.dev)
 
 
 <h3 align="left">Github Stats:</h3>
