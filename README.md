@@ -28,7 +28,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=dart,vscode&theme=light)](https://nobelleon.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,javascript,vscode&theme=light)](https://nobelleon.dev)
 
 <h3 align="left"> FrontEnd:</h3>
 
