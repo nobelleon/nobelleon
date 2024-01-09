@@ -28,11 +28,11 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=dart,javascript,cpp, java,vscode&theme=light)](https://nobelleon.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,javascript,cpp,java,vscode&theme=light)](https://nobelleon.dev)
 
 <h3 align="left"> FrontEnd:</h3>
 
- [![My Skills](https://skillicons.dev/icons?i=flutter,html&theme=light)](https://nobelleon.dev)
+ [![My Skills](https://skillicons.dev/icons?i=flutter&theme=light)](https://nobelleon.dev)
 
 <h3 align="left"> BackEnd/Database:</h3>
 
