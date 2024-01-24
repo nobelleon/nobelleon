@@ -28,7 +28,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,javascript,cpp,java,html,firebase,figma,vscode&theme=light)](https://nobelleon.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,javascript,cpp,java,html,firebase,git,gitlab,github,figma,vscode&theme=light)](https://nobelleon.dev)
 
 <h3 align="left"> FrontEnd Development:</h3>
 
@@ -44,7 +44,7 @@
 
 <h3 align="left"> CI/CD:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github&theme=light)](https://nobelleon.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=light)](https://nobelleon.dev)
 
 
 <h3 align="left">Github Stats:</h3>
