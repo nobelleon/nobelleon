@@ -1,4 +1,4 @@
-<p align="center">    
+<p align="center">     
 		<img alt="Nobelleon's Welcome Message"
 			 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=B133A1&width=435&lines=Hallo+%F0%9F%91%8B%2C+I'm+Nobelleon+M">
 </p> 
