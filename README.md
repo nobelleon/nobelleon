@@ -13,6 +13,10 @@
 - 🌱 I’m currently learning **Flutter/dart.**
 
 - 📫 How to reach me **nobelleon.86@gmail.com**
+  
+- 🌱 Work experience as a flutter developer **4 month**
+  
+- 🔭 I’m currently activity is creating a **personal application project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
