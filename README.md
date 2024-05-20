@@ -16,7 +16,7 @@
   
 - 🌱 Work experience as a flutter developer **4 month**
   
-- 🔭 I’m currently activity is creating a **personal application project**
+- 🔭 I’m currently activity is creating a **personal mobile application project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
