@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **nobelleon.86@gmail.com**
   
-- 🌱 Work experience as a flutter developer **4 month**
+- 🌱 Work experience as a flutter/mobile developer **4 month**
   
 - 🔭 I’m currently activity is creating a **personal mobile application project**
 
