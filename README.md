@@ -11,12 +11,12 @@
 - 🔭 I’m currently **Improving problem solving skills in mobile app and develop mobile apps.**
 
 - 🌱 I’m currently learning **Flutter/dart.**
-
-- 📫 How to reach me **nobelleon.86@gmail.com**
   
 - 🌱 Work experience as a flutter/mobile developer **4 month**
   
 - 🔭 I’m currently activity is creating a **personal mobile application project**
+
+- 📫 How to reach me **nobelleon.86@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
