@@ -15,7 +15,8 @@
 - 🌱 Work experience as a flutter/mobile developer **4 month**
   
 - 📫 How to reach me **nobelleon.86@gmail.com**
-- 👉 Visit my linkedin profile :  https://www.linkedin.com/in/nobelleon-mahardhika-291048124/ (including some of my personal projects posted) and Hire me for your next project ☺️
+  
+- 👉 Visit my linkedin profile :  **https://www.linkedin.com/in/nobelleon-mahardhika-291048124/** (including some of my personal projects posted) and Hire me for your next project ☺️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
