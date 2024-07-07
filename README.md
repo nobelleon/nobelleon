@@ -52,6 +52,12 @@
 
 
 <h3 align="left">Github Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nobelleon&show_icons=true&locale=en" alt="nobelleon" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nobelleon&show_icons=true&locale=en" alt="nobelleon" /></p> 
+
 <h3 align="left">Github Most Used Languages:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nobelleon&show_icons=true&locale=en&layout=compact" alt="nobelleon" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nobelleon&show_icons=true&locale=en" alt="nobelleon" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nobelleon&" alt="nobelleon" /></p>
+
