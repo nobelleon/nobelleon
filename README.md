@@ -61,3 +61,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nobelleon&" alt="nobelleon" /></p>
 
+![Hologram soldier](https://github.com/user-attachments/assets/168ec6a2-d7fe-47ac-8748-a336101c76a6)
+
+
