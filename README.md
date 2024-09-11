@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently activity is creating a **personal mobile application project, improving problem solving skills in mobile app and develop mobile apps.**
 
-- 🌱 I’m currently learning **Flutter/dart language.**
+- 🌱 I’m currently learning **Flutter/dart3.**
   
 - 📫 How to reach me **nobelleon.86@gmail.com**
   
