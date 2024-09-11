@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Flutter/dart3.**
 
-- 🌱 I’m currently trying to add the **Gemini GPT AI feature.** to every mobile application.
+- 🌱 I’m currently trying to add the **Gemini GPT AI feature** to every mobile application.
   
 - 📫 How to reach me **nobelleon.86@gmail.com**
   
