@@ -32,19 +32,19 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,javascript,cpp,java,html,laravel,mysql,firebase,git,gitlab,github,figma,vscode&theme=light)](https://nobelleon.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,javascript,cpp,java,html,laravel,postman,mysql,firebase,git,gitlab,github,figma,vscode&theme=light)](https://nobelleon.dev)
 
 <h3 align="left"> Mobile Development:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart&theme=light)](https://nobelleon.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,ai,svg&theme=light)](https://nobelleon.dev)
 
 <h3 align="left"> FrontEnd Development:</h3>
 
- [![My Skills](https://skillicons.dev/icons?i=flutter,html,javascript,java,laravel&theme=light)](https://nobelleon.dev)
+ [![My Skills](https://skillicons.dev/icons?i=flutter,html,css,javascript,java,laravel&theme=light)](https://nobelleon.dev)
 
-<h3 align="left"> BackEnd/Database Development:</h3>
+<h3 align="left"> BackEnd Development:</h3>
 
- [![My Skills](https://skillicons.dev/icons?i=firebase,mysql&theme=light)](https://nobelleon.dev)
+ [![My Skills](https://skillicons.dev/icons?i=firebase,mysql,postman&theme=light)](https://nobelleon.dev)
 
  <h3 align="left"> UI Design:</h3>
 
