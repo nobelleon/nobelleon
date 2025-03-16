@@ -36,7 +36,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,javascript,cpp,java,html,laravel,postman,mysql,firebase,git,gitlab,github,figma,vscode&theme=light)](https://nobelleon.dev)
 
-<h3 align="left"> Mobile Development:</h3>
+<h3 align="left"> Mobile App Development:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,ai,svg&theme=light)](https://nobelleon.dev)
 
