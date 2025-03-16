@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Mirzaazmath/threads_clone/blob/main/assets/output/coding.gif">
 
-- 🔭 I’m currently activity is creating a **personal mobile application project, improving problem solving skills in mobile app and develop mobile apps.**
+- 🔭 I’m currently activity is creating a **personal mobile application project, improving modifying mobile apps and develop mobile apps.**
 
 - 🌱 I’m currently learning **Flutter/dart3.**
 
