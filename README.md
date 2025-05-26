@@ -44,7 +44,7 @@
 
 <h3 align="left"> FrontEnd Development:</h3>
 
- [![My Skills](https://skillicons.dev/icons?i=flutter,html,css,javascript,java,laravel&theme=light)](https://nobelleon.dev)
+ [![My Skills](https://skillicons.dev/icons?i=flutter,html,css,javascript,java,golang,laravel&theme=light)](https://nobelleon.dev)
 
 <h3 align="left"> BackEnd Development:</h3>
 
