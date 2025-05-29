@@ -18,7 +18,7 @@
   
 - 🔭 My Youtube Channel **https://www.youtube.com/@NoobsterDev**
 
-- 👉 portfolio website **https://nobelleon.github.io/My-Portfolio-Neon-Glow/index.html**
+- 👉 portfolio website **https://nobelleon.github.io/My-Portfolio-Neon-Glow/**
   
 - 👉 Visit my linkedin profile :  **https://www.linkedin.com/in/nobelleon-mahardhika-291048124/** (including some of my personal projects posted) and Hire me for your next project ☺️
 
