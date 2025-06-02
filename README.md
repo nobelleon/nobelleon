@@ -20,7 +20,7 @@
 
 - 👉 portfolio website **https://nobelleon.github.io/My-Portfolio-Neon-Glow/index.html**
   
-- 👉 Visit my linkedin profile :  **https://www.linkedin.com/in/nobelleon-mahardhika-291048124/** (including some of my personal projects posted) and Hire me for your next project ☺️
+- 👉 Visit my linkedin profile :  **https://www.linkedin.com/in/nobelleon-mahardhika-291048124/** (including some of my personal projects posted)☺️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
