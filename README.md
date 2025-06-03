@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Mirzaazmath/threads_clone/blob/main/assets/output/coding.gif">
 
-- 🔭 I’m currently activity is creating a **personal mobile application project, improving modifying mobile apps and develop mobile apps.**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png" width="20" height="20" > I’m currently activity is creating a **personal mobile application project, improving modifying mobile apps and develop mobile apps.**
 
 - 🌱 I’m currently learning **Flutter/dart3.**
 
@@ -16,13 +16,13 @@
   
 - 📫 How to reach me **nobelleon.86@gmail.com**
   
-- 🔭 My Youtube Channel **https://www.youtube.com/@NoobsterDev**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="20" height="20" > My Youtube Channel **https://www.youtube.com/@NoobsterDev**
 
-- 👉 portfolio website **https://nobelleon.github.io/My-Portfolio-Neon-Glow/index.html**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="20" height="20" > portfolio website **https://nobelleon.github.io/My-Portfolio-Neon-Glow/index.html**
   
-- 👉 Visit my linkedin profile :  **https://www.linkedin.com/in/nobelleon-mahardhika-291048124/** (including some of my personal projects posted)☺️
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="20" height="20" > Visit my linkedin profile :  **https://www.linkedin.com/in/nobelleon-mahardhika-291048124/** (including some of my personal projects posted)☺️
 
-<h3 align="left">Connect with me:</h3>
+## <p style="font-family:var(--ff-philosopher);font-size:3rem;text-align:center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Star.png" width="40" height="40"/> Connect with me :</p>
 <p align="left">
 <a href="https://www.linkedin.com/in/nobelleon-mahardhika-291048124/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nobelleon-mahardhika-291048124" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nobelleon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nobelleon" height="30" width="40" /></a>
@@ -33,36 +33,35 @@
   
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
+## <p style="font-family:var(--ff-philosopher);font-size:3rem;text-align:center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="40" height="40" />Languages and Tools:</p>
 
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,javascript,cpp,java,golang,html,css,laravel,postman,mysql,firebase,git,gitlab,github,figma,vscode&theme=light)](https://nobelleon.dev)
 
-<h3 align="left"> Mobile App Development:</h3>
+## <p style="font-family:var(--ff-philosopher);font-size:3rem;text-align:center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" height="40" >Mobile App Development :</p>
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,ai,svg&theme=light)](https://nobelleon.dev)
 
-<h3 align="left"> FrontEnd Development:</h3>
+## <p style="font-family:var(--ff-philosopher);font-size:3rem;text-align:center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" height="40" >FrontEnd Development :</p>
 
- [![My Skills](https://skillicons.dev/icons?i=flutter,html,css,javascript,java,golang,laravel&theme=light)](https://nobelleon.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,html,css,javascript,java,golang,laravel&theme=light)](https://nobelleon.dev)
 
-<h3 align="left"> BackEnd Development:</h3>
+## <p style="font-family:var(--ff-philosopher);font-size:3rem;text-align:center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" height="40" >BackEnd Development :</p>
 
- [![My Skills](https://skillicons.dev/icons?i=firebase,mysql,postman&theme=light)](https://nobelleon.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,mysql,postman&theme=light)](https://nobelleon.dev)
 
- <h3 align="left"> UI Design:</h3>
+## <p style="font-family:var(--ff-philosopher);font-size:3rem;text-align:center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" height="40" >UI Design :</p>
+ 
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://nobelleon.dev)
 
- [![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://nobelleon.dev)
-
-<h3 align="left"> CI/CD:</h3>
+## <p style="font-family:var(--ff-philosopher);font-size:3rem;text-align:center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" height="40" >CI/CD :</p>
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=light)](https://nobelleon.dev)
 
 
-<h3 align="left">Github Stats:</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Rocket" width="40" height="40" /> Github Stats :</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nobelleon&show_icons=true&locale=en" alt="nobelleon" /></p> 
 
-<h3 align="left">Github Most Used Languages:</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Rocket" width="40" height="40" /> Github Most Used Languages :</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nobelleon&show_icons=true&locale=en&layout=compact" alt="nobelleon" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nobelleon&show_icons=true&locale=en" alt="nobelleon" /></p>
