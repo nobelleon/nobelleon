@@ -47,7 +47,7 @@
 
 ## <p style="font-family:var(--ff-philosopher);font-size:3rem;text-align:center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" height="40" >BackEnd Development :</p>
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,mysql,postman&theme=light)](https://nobelleon.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,mysql,golang,postman&theme=light)](https://nobelleon.dev)
 
 ## <p style="font-family:var(--ff-philosopher);font-size:3rem;text-align:center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" height="40" >UI Design :</p>
  
