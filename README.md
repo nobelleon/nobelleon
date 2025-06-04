@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nobelleon&label=Profile%20views&color=0e75b6&style=flat" alt="nobelleon" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Mirzaazmath/threads_clone/blob/main/assets/output/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png" width="20" height="20" > I’m currently activity is creating a **personal mobile application project, improving modifying mobile apps and develop mobile apps.**
 
@@ -27,6 +27,7 @@
 <a href="https://www.linkedin.com/in/nobelleon-mahardhika-291048124/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nobelleon-mahardhika-291048124" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nobelleon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nobelleon" height="30" width="40" /></a>
 <a href="https://web.facebook.com/n0beLLeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nobelleon" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@NoobsterDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nobelleon" height="30" width="40" /></a>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/nobelleon">
 
   
@@ -59,14 +60,23 @@
 
 
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Rocket" width="40" height="40" /> Github Stats :</h3>
+
+<div align="center">
+    <img width="600" src="https://github-profile-trophy.vercel.app/?username=nobelleon&column=5" /> 
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nobelleon&true&hide_border=true" />
+</div>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nobelleon&show_icons=true&locale=en" alt="nobelleon" /></p> 
 
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Rocket" width="40" height="40" /> Github Most Used Languages :</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nobelleon&show_icons=true&locale=en&layout=compact" alt="nobelleon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nobelleon&show_icons=true&locale=en" alt="nobelleon" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nobelleon&" alt="nobelleon" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 
 
 
