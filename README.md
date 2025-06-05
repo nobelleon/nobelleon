@@ -87,7 +87,7 @@
 
 # <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Rocket" width="40" height="40" /> LeetCode Stats :</h3>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Nobel?theme=unicorn&font=Josefin%20Slab&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Noob?theme=unicorn&font=Josefin%20Slab&ext=heatmap)
 
 
 
