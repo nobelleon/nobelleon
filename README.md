@@ -22,6 +22,9 @@
   
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="20" height="20" > Visit my linkedin profile :  **https://www.linkedin.com/in/nobelleon-mahardhika-291048124/** (including some of my personal projects posted)☺️
 
+## <p style="font-family:var(--ff-philosopher);font-size:3rem;text-align:center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Star.png" width="40" height="40"/> Like my apps and want to support me?</p>
+<a href="https://buymeacoffee.com/nobelleon" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
+
 ## <p style="font-family:var(--ff-philosopher);font-size:3rem;text-align:center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Star.png" width="40" height="40"/> Connect with me :</p>
 <p align="left">
 <a href="https://www.linkedin.com/in/nobelleon-mahardhika-291048124/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nobelleon-mahardhika-291048124" height="30" width="40" /></a>
