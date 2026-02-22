@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently trying to add the **Gemini GPT AI feature** to every mobile application.
 
-- 🌱 I’m currently create modern, aesthetic & visual animation website with **HTML+CSS, Javascript and GSAP**. 
+- 🌱 I’m currently create modern, aesthetic & visual animation website with **HTML+CSS, Javascript and GSAP(GreenSock Animation Platform)**. 
   
 - 📫 How to reach me **nobelleon.86@gmail.com**
   
