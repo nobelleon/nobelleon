@@ -65,10 +65,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=light)](https://nobelleon.dev)
 
-<h2 align="left" id="nobelleon">Certificates</h2>
-
->Certificates
-
+<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Rocket" width="40" height="40" /> Certificates :</h2>
 <table>
   <tr>
     <td align="center" width="96">
