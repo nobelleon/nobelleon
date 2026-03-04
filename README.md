@@ -26,6 +26,81 @@
   
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="20" height="20" > Visit my linkedin profile :  **https://www.linkedin.com/in/nobelleon-mahardhika-291048124/** (including some of my personal projects posted)☺️
 
+<h2 align="left" id="nobelleon">Certificates</h2>
+
+>Certificates
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.freepnglogos.com/uploads/ibm-logo-png/ibm-logo-png-transparent-svg-vector-bie-supply-3.png" width="48" height="48" alt="#" />
+      </a>
+      <br>Introduction to Software Engineering 
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Meta-Logo.png/960px-Meta-Logo.png?_=20211104123859" width="48" height="48" alt="Python" />
+      </a>
+      <br>Django Web Framework
+    </td>
+	<td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Meta-Logo.png/960px-Meta-Logo.png?_=20211104123859" width="48" height="48" alt="c" />
+      </a>
+      <br>Introduction to Front-End Development
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.freepnglogos.com/uploads/ibm-logo-png/ibm-logo-png-transparent-svg-vector-bie-supply-3.png" width="48" height="48" alt="c" />
+      </a>
+      <br>Introduction to HTML, CSS, & JavaScript
+    </td>
+	<td align="center" width="96">
+      <a href="#">
+        <img src="https://www.freepnglogos.com/uploads/ibm-logo-png/ibm-logo-png-transparent-svg-vector-bie-supply-3.png" width="48" height="48" alt="c" />
+      </a>
+      <br>Introduction to Mobile App Development
+    </td>
+	<td align="center" width="96">
+      <a href="#">
+        <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0018/1287/brand.gif?itok=c04H6d-r" width="118" height="108" alt="c" />
+      </a>
+      <br>Working with Version Control
+    </td>
+	<td align="center" width="96">
+      <a href="#">
+        <img src="https://images.seeklogo.com/logo-png/37/1/uc-davis-logo-png_seeklogo-370501.png" width="118" height="108" alt="c" />
+      </a>
+      <br>Introduction to Web Development
+    </td>
+	<td align="center" width="96">
+      <a href="#">
+        <img src="https://logowik.com/content/uploads/images/udemy-new-20212512.jpg" width="118" height="108" alt="c" />
+      </a>
+      <br>Flutter Bloc Essential Course
+    </td>
+	<td align="center" width="96">
+      <a href="#">
+        <img src="https://www.freepnglogos.com/uploads/ibm-logo-png/ibm-logo-png-transparent-svg-vector-bie-supply-3.png" width="48" height="48" alt="c" />
+      </a>
+      <br>Generative AI - Introduction and Applications
+    </td>	
+	<td align="center" width="96">
+      <a href="#">
+        <img src="https://www.freepnglogos.com/uploads/ibm-logo-png/ibm-logo-png-transparent-svg-vector-bie-supply-3.png" width="48" height="48" alt="c" />
+      </a>
+      <br>Getting Started with Git and GitHub
+    </td>
+	<td align="center" width="96">
+      <a href="#">
+        <img src="https://www.freepnglogos.com/uploads/ibm-logo-png/ibm-logo-png-transparent-svg-vector-bie-supply-3.png" width="48" height="48" alt="c" />
+      </a>
+      <br>Flutter and Dart Developing iOS, Android & Mobile Apps
+    </td>	
+     </tr>
+</table>
+
 ## <p style="font-family:var(--ff-philosopher);font-size:3rem;text-align:center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Star.png" width="40" height="40"/> Like my apps and want to support me?</p>
 <a href="https://buymeacoffee.com/nobelleon" target="_blank"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRwMTN3d2hmc2lpZTFqenliOTJydGprbWRyMDl3eG5jazg3dmtqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9MpjXbFLyUuIh67b7M/giphy.gif" alt="Buy Me A Coffee" style="height: 150px !important;width: 162.75px !important;" ></a>
 
