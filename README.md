@@ -41,9 +41,9 @@
   
 </p>
 
-## <p style="font-family:var(--ff-philosopher);font-size:3rem;text-align:center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="40" height="40" />Languages and Tools :</p>
+## <p style="font-family:var(--ff-philosopher);font-size:3rem;text-align:center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="40" height="40" />Progamming Languages, Frameworks and Tools :</p>
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,javascript,cpp,java,golang,python,django,html,css,laravel,postman,mysql,firebase,git,gitlab,github,figma,vscode&theme=light)](https://nobelleon.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,javascript,cpp,java,golang,python,django,bash,powershell,html,css,laravel,postman,mysql,firebase,git,gitlab,github,figma,vscode&theme=light)](https://nobelleon.dev)
 
 ## <p style="font-family:var(--ff-philosopher);font-size:3rem;text-align:center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" height="40" >Mobile App Development :</p>
 
