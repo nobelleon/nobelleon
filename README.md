@@ -26,7 +26,10 @@
   
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="20" height="20" > Visit my linkedin profile :  **https://www.linkedin.com/in/nobelleon-mahardhika-291048124/** (including some of my personal projects posted)☺️
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="20" height="20" > Let's join with me in investing Cryptocurrency at **https://indodax.com/ref/jenuby/1** 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="20" height="20" > Let's join with me in investing Cryptocurrency at **https://indodax.com/ref/jenuby/1**
+
+<img width="200" height="200" alt="indodax barcode" src="https://github.com/user-attachments/assets/071c67f6-133f-4ec4-adbd-815b2405b45d" />
+
   
 ## <p style="font-family:var(--ff-philosopher);font-size:3rem;text-align:center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Star.png" width="40" height="40"/> Like my apps and want to support me?</p>
 <a href="https://buymeacoffee.com/nobelleon" target="_blank"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRwMTN3d2hmc2lpZTFqenliOTJydGprbWRyMDl3eG5jazg3dmtqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9MpjXbFLyUuIh67b7M/giphy.gif" alt="Buy Me A Coffee" style="height: 150px !important;width: 162.75px !important;" ></a>
