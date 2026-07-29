@@ -26,7 +26,7 @@
   
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="20" height="20" > Visit my linkedin profile :  **https://www.linkedin.com/in/nobelleon-mahardhika-291048124/** (including some of my personal projects posted)☺️
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="20" height="20" > and come join me in trading Cryptocurrency at **https://indodax.com/ref/jenuby/1**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="20" height="20" > Let's join with me in trading Cryptocurrency at **https://indodax.com/ref/jenuby/1**
 
 <img width="200" height="200" alt="indodax barcode" src="https://github.com/user-attachments/assets/071c67f6-133f-4ec4-adbd-815b2405b45d" />
 
